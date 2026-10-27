@@ -1,0 +1,19 @@
+{
+  "name": "block-and-bloom",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test scripts/logic.test.mjs scripts/campaign.test.mjs scripts/progress.test.mjs scripts/mobile-input.test.mjs",
+    "standalone": "node scripts/standalone.mjs",
+    "check:view": "node scripts/check-view.mjs",
+    "preview": "node scripts/serve.mjs --dist",
+    "start": "node scripts/serve.mjs",
+    "check:art": "node scripts/check-blox-art.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
