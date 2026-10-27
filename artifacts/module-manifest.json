@@ -1,0 +1,26 @@
+{
+  "entry": "src/main.js",
+  "modules": [
+    "src/main.js",
+    "vendor/three.module.js",
+    "vendor/RoundedBoxGeometry.js",
+    "src/models.js",
+    "src/ui.js",
+    "src/facilities.js",
+    "src/terrain.js",
+    "src/dig-effects.js",
+    "src/water-art.js",
+    "src/garden.js",
+    "src/view.js",
+    "src/gestures.js",
+    "src/workshop-base.js",
+    "src/logic.js",
+    "src/progress.js",
+    "src/animals.js",
+    "vendor/three.core.js",
+    "vendor/BufferGeometryUtils.js",
+    "src/water.js",
+    "src/levels.js"
+  ],
+  "standalone": "Block-and-Bloom_Play.html"
+}

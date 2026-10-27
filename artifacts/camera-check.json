@@ -1,0 +1,539 @@
+{
+  "method": "CPU projection and real terrain ray picking, not a rendered screenshot",
+  "views": [
+    {
+      "level": 1,
+      "width": 1280,
+      "height": 720,
+      "quarterTurn": 0,
+      "rays": 99,
+      "unobstructedCellsPicked": 86,
+      "physicallyOccludedCells": [
+        3,
+        14,
+        20,
+        25,
+        30,
+        31,
+        36,
+        47,
+        58,
+        69,
+        75,
+        80,
+        91
+      ],
+      "nearFarRatio": 1.2136136664783723
+    },
+    {
+      "level": 1,
+      "width": 1280,
+      "height": 720,
+      "quarterTurn": 1,
+      "rays": 99,
+      "unobstructedCellsPicked": 86,
+      "physicallyOccludedCells": [
+        3,
+        14,
+        25,
+        31,
+        36,
+        47,
+        58,
+        69,
+        74,
+        75,
+        80,
+        86,
+        91
+      ],
+      "nearFarRatio": 1.213575667186129
+    },
+    {
+      "level": 1,
+      "width": 1280,
+      "height": 720,
+      "quarterTurn": 2,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        30,
+        74,
+        75,
+        85
+      ],
+      "nearFarRatio": 1.214791491331809
+    },
+    {
+      "level": 1,
+      "width": 1280,
+      "height": 720,
+      "quarterTurn": 3,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        19,
+        30,
+        31,
+        74
+      ],
+      "nearFarRatio": 1.2148299245322538
+    },
+    {
+      "level": 1,
+      "width": 900,
+      "height": 1125,
+      "quarterTurn": 0,
+      "rays": 99,
+      "unobstructedCellsPicked": 86,
+      "physicallyOccludedCells": [
+        3,
+        14,
+        20,
+        25,
+        30,
+        31,
+        36,
+        47,
+        58,
+        69,
+        75,
+        80,
+        91
+      ],
+      "nearFarRatio": 1.2136136664783723
+    },
+    {
+      "level": 1,
+      "width": 900,
+      "height": 1125,
+      "quarterTurn": 1,
+      "rays": 99,
+      "unobstructedCellsPicked": 86,
+      "physicallyOccludedCells": [
+        3,
+        14,
+        25,
+        31,
+        36,
+        47,
+        58,
+        69,
+        74,
+        75,
+        80,
+        86,
+        91
+      ],
+      "nearFarRatio": 1.2135756671861293
+    },
+    {
+      "level": 1,
+      "width": 900,
+      "height": 1125,
+      "quarterTurn": 2,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        30,
+        74,
+        75,
+        85
+      ],
+      "nearFarRatio": 1.214791491331809
+    },
+    {
+      "level": 1,
+      "width": 900,
+      "height": 1125,
+      "quarterTurn": 3,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        19,
+        30,
+        31,
+        74
+      ],
+      "nearFarRatio": 1.2148299245322538
+    },
+    {
+      "level": 1,
+      "width": 390,
+      "height": 844,
+      "quarterTurn": 0,
+      "rays": 99,
+      "unobstructedCellsPicked": 86,
+      "physicallyOccludedCells": [
+        3,
+        14,
+        20,
+        25,
+        30,
+        31,
+        36,
+        47,
+        58,
+        69,
+        75,
+        80,
+        91
+      ],
+      "nearFarRatio": 1.213613666478372
+    },
+    {
+      "level": 1,
+      "width": 390,
+      "height": 844,
+      "quarterTurn": 1,
+      "rays": 99,
+      "unobstructedCellsPicked": 86,
+      "physicallyOccludedCells": [
+        3,
+        14,
+        25,
+        31,
+        36,
+        47,
+        58,
+        69,
+        74,
+        75,
+        80,
+        86,
+        91
+      ],
+      "nearFarRatio": 1.2135756671861295
+    },
+    {
+      "level": 1,
+      "width": 390,
+      "height": 844,
+      "quarterTurn": 2,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        30,
+        74,
+        75,
+        85
+      ],
+      "nearFarRatio": 1.214791491331809
+    },
+    {
+      "level": 1,
+      "width": 390,
+      "height": 844,
+      "quarterTurn": 3,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        19,
+        30,
+        31,
+        74
+      ],
+      "nearFarRatio": 1.2148299245322538
+    },
+    {
+      "level": 1,
+      "width": 844,
+      "height": 390,
+      "quarterTurn": 0,
+      "rays": 99,
+      "unobstructedCellsPicked": 86,
+      "physicallyOccludedCells": [
+        3,
+        14,
+        20,
+        25,
+        30,
+        31,
+        36,
+        47,
+        58,
+        69,
+        75,
+        80,
+        91
+      ],
+      "nearFarRatio": 1.213613666478372
+    },
+    {
+      "level": 1,
+      "width": 844,
+      "height": 390,
+      "quarterTurn": 1,
+      "rays": 99,
+      "unobstructedCellsPicked": 86,
+      "physicallyOccludedCells": [
+        3,
+        14,
+        25,
+        31,
+        36,
+        47,
+        58,
+        69,
+        74,
+        75,
+        80,
+        86,
+        91
+      ],
+      "nearFarRatio": 1.2135756671861295
+    },
+    {
+      "level": 1,
+      "width": 844,
+      "height": 390,
+      "quarterTurn": 2,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        30,
+        74,
+        75,
+        85
+      ],
+      "nearFarRatio": 1.2147914913318092
+    },
+    {
+      "level": 1,
+      "width": 844,
+      "height": 390,
+      "quarterTurn": 3,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        19,
+        30,
+        31,
+        74
+      ],
+      "nearFarRatio": 1.214829924532254
+    },
+    {
+      "level": 9,
+      "width": 1280,
+      "height": 720,
+      "quarterTurn": 0,
+      "rays": 99,
+      "unobstructedCellsPicked": 97,
+      "physicallyOccludedCells": [
+        27,
+        28
+      ],
+      "nearFarRatio": 1.2136136664783723
+    },
+    {
+      "level": 9,
+      "width": 1280,
+      "height": 720,
+      "quarterTurn": 1,
+      "rays": 99,
+      "unobstructedCellsPicked": 97,
+      "physicallyOccludedCells": [
+        25,
+        81
+      ],
+      "nearFarRatio": 1.213575667186129
+    },
+    {
+      "level": 9,
+      "width": 1280,
+      "height": 720,
+      "quarterTurn": 2,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "nearFarRatio": 1.214791491331809
+    },
+    {
+      "level": 9,
+      "width": 1280,
+      "height": 720,
+      "quarterTurn": 3,
+      "rays": 99,
+      "unobstructedCellsPicked": 97,
+      "physicallyOccludedCells": [
+        61,
+        73
+      ],
+      "nearFarRatio": 1.2148299245322538
+    },
+    {
+      "level": 9,
+      "width": 900,
+      "height": 1125,
+      "quarterTurn": 0,
+      "rays": 99,
+      "unobstructedCellsPicked": 96,
+      "physicallyOccludedCells": [
+        25,
+        27,
+        28
+      ],
+      "nearFarRatio": 1.2136136664783723
+    },
+    {
+      "level": 9,
+      "width": 900,
+      "height": 1125,
+      "quarterTurn": 1,
+      "rays": 99,
+      "unobstructedCellsPicked": 97,
+      "physicallyOccludedCells": [
+        25,
+        81
+      ],
+      "nearFarRatio": 1.2135756671861293
+    },
+    {
+      "level": 9,
+      "width": 900,
+      "height": 1125,
+      "quarterTurn": 2,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "nearFarRatio": 1.214791491331809
+    },
+    {
+      "level": 9,
+      "width": 900,
+      "height": 1125,
+      "quarterTurn": 3,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        27,
+        28,
+        61,
+        73
+      ],
+      "nearFarRatio": 1.2148299245322538
+    },
+    {
+      "level": 9,
+      "width": 390,
+      "height": 844,
+      "quarterTurn": 0,
+      "rays": 99,
+      "unobstructedCellsPicked": 96,
+      "physicallyOccludedCells": [
+        25,
+        27,
+        28
+      ],
+      "nearFarRatio": 1.213613666478372
+    },
+    {
+      "level": 9,
+      "width": 390,
+      "height": 844,
+      "quarterTurn": 1,
+      "rays": 99,
+      "unobstructedCellsPicked": 97,
+      "physicallyOccludedCells": [
+        25,
+        81
+      ],
+      "nearFarRatio": 1.2135756671861295
+    },
+    {
+      "level": 9,
+      "width": 390,
+      "height": 844,
+      "quarterTurn": 2,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "nearFarRatio": 1.214791491331809
+    },
+    {
+      "level": 9,
+      "width": 390,
+      "height": 844,
+      "quarterTurn": 3,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        27,
+        28,
+        61,
+        73
+      ],
+      "nearFarRatio": 1.2148299245322538
+    },
+    {
+      "level": 9,
+      "width": 844,
+      "height": 390,
+      "quarterTurn": 0,
+      "rays": 99,
+      "unobstructedCellsPicked": 97,
+      "physicallyOccludedCells": [
+        27,
+        28
+      ],
+      "nearFarRatio": 1.213613666478372
+    },
+    {
+      "level": 9,
+      "width": 844,
+      "height": 390,
+      "quarterTurn": 1,
+      "rays": 99,
+      "unobstructedCellsPicked": 97,
+      "physicallyOccludedCells": [
+        25,
+        81
+      ],
+      "nearFarRatio": 1.2135756671861295
+    },
+    {
+      "level": 9,
+      "width": 844,
+      "height": 390,
+      "quarterTurn": 2,
+      "rays": 99,
+      "unobstructedCellsPicked": 95,
+      "physicallyOccludedCells": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "nearFarRatio": 1.2147914913318092
+    },
+    {
+      "level": 9,
+      "width": 844,
+      "height": 390,
+      "quarterTurn": 3,
+      "rays": 99,
+      "unobstructedCellsPicked": 97,
+      "physicallyOccludedCells": [
+        61,
+        73
+      ],
+      "nearFarRatio": 1.214829924532254
+    }
+  ]
+}
